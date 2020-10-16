@@ -9,3 +9,23 @@ h1 {
 	text-align: center;
 	color:#33DDFF
 }
+a{
+	text-decoration:none;
+}
+#firstp{
+	line-height: 1.8;
+	color:cyan;
+	
+}
+#secondp{
+	color: deeppink
+}
+p{
+	font-family: times new Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.iknow{
+	color: cadetblue
+}
+.idontknow{
+	color:fuchsia
+}
